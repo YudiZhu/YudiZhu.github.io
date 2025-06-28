@@ -27,7 +27,7 @@ I am Yudi Zhu, a Master graduate at Shanghai Jiao Tong University. I obtained my
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors and Actuators B</div><img src='images/SAB1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors and Actuators B</div><img src='images/SAB1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gas Identification Using Gas Sensor Array via Gramian-Angular-Field-Based Image Conversion and Convolutional Neural Networks Architecture Search](https://www.sciencedirect.com/science/article/abs/pii/S0925400524009286)
@@ -38,7 +38,7 @@ I am Yudi Zhu, a Master graduate at Shanghai Jiao Tong University. I obtained my
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors and Actuators B</div><img src='images/SAB2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors and Actuators B</div><img src='images/SAB2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Low-Power Adaptive Sampling Electronic Nose System with a Radon Transform-Based Convolutional Neural Network for Improved Gas Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925400524014539)
@@ -47,7 +47,7 @@ Zhuoheng Li, Tao Wang, Jianhua Yang, **Yudi Zhu**, Wangze Ni, Min Zeng, Zhi Yang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/IEEE1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/IEEE1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Integrating Dynamic State Information to Enhance Gas Concentration Modeling Accuracy](https://ieeexplore.ieee.org/document/10505161)
