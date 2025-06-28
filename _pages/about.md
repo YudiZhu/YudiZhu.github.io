@@ -17,42 +17,55 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Yudi Zhu, a Master graduate at Shanghai Jiao Tong University. I obtained my Bachelor's degree at Southeast University, Nanjing. My research interest includes neural architecture search, network optmization, and AutoML. I have published more than 5 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=FV4RtZ4AAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=FV4RtZ4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+# 📧 Contact
+- *E-mail*： &nbsp; yudi_zhu@outlook.com
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 Looking for a PhD position in AutoML, neural network optimization, and other relevant fields. Please let me know if you are interested!  
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors and Actuators B</div><img src='images/SAB1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Gas Identification Using Gas Sensor Array via Gramian-Angular-Field-Based Image Conversion and Convolutional Neural Networks Architecture Search](https://www.sciencedirect.com/science/article/abs/pii/S0925400524009286)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yudi Zhu**, Tao Wang, Zhuoheng Li, Wangze Ni, Min Zeng, Zhi Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/YudiZhu/ga-pso-CNN) <strong><span class='show_paper_citations' data='FV4RtZ4AAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors and Actuators B</div><img src='images/SAB2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Low-Power Adaptive Sampling Electronic Nose System with a Radon Transform-Based Convolutional Neural Network for Improved Gas Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925400524014539)
+
+Zhuoheng Li, Tao Wang, Jianhua Yang, **Yudi Zhu**, Wangze Ni, Min Zeng, Zhi Yang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/IEEE1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Integrating Dynamic State Information to Enhance Gas Concentration Modeling Accuracy](https://ieeexplore.ieee.org/document/10505161)
+
+Tianxiang Wang, Xin Xi, **Yudi Zhu**, Yuezeng Su, Min Zeng, Zhi Yang
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.12* First Class Scholarship, Shanghai Jiao Tong University. 
+- *2022.09* "Internet+" College Student Innovation and Entrepreneurship Competition, Silver Prize in Shanghai Province. 
+- *2021.12* First Class Scholarship, Shanghai Jiao Tong University.
+- *2018.12* Individual Scholarship, Southeast University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.06*, [Electronic Information](https://www.seiee.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Zhi Yang](https://dmne.sjtu.edu.cn/dmne/faculty/yangzhi/).
+- *2017.09 - 2021.06*, [Material Science and Engineering](https://smse.seu.edu.cn/), Southeast University, advised by [Peigen Zhang](https://smse.seu.edu.cn/2018/1128/c2590a247758/pagem.htm).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships & Jobs
+- *2019.05 - 2020.02*, [LanMA](https://www.xbotspace.com/), China. **AI engineer**
+- *2024.10 - 2025.06(now)*, [BYD](https://www.bydglobal.com/cn/index.html), China. **BMS engineer**
